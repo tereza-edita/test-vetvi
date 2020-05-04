@@ -52,3 +52,8 @@ h2 {
   text-align: center;
   color: orange;
 }
+
+.column {
+  background-color: #74b9ff;
+  border: white solid 15px;
+}
